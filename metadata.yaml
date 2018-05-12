@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_Baudelaire
     - http://fr.wikipedia.org/wiki/Charles_Baudelaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36098#The-Flowers-of-Evil
 gutenberg_issued: '2011-05-13'
 gutenberg_type: Text
 identifiers:
