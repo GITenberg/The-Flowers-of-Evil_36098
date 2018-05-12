@@ -1,0 +1,41 @@
+_repo: The-Flowers-of-Evil_36098
+_version: 0.1.0
+alternative_title: Les Fleurs du Mal. English
+contributor:
+  translator:
+    agent_name: Scott, Cyril
+    alias: Scott, Cyril Meir
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '38080'
+    url: http://www.gutenberg.org/2009/agents/38080
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baudelaire, Charles
+    aliases:
+    - Baudelaire-Dufays, Charles Pierre
+    - Baudelaire-Dufaÿs, Charles Pierre
+    birthdate: 1821
+    deathdate: 1867
+    gutenberg_agent_id: '1947'
+    url: http://www.gutenberg.org/2009/agents/1947
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Baudelaire
+    - http://fr.wikipedia.org/wiki/Charles_Baudelaire
+description: ''
+gutenberg_issued: '2011-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French poetry -- Translations into English'
+title: The Flowers of Evil
+url: http://www.gutenberg.org/ebooks/36098
